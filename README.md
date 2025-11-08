@@ -1,7 +1,5 @@
 # SleepEfficiencyML
 
-[Live app](http://54.226.49.20:8080)
-
 ![Project Demo](SleepEfficiencyGIF.gif)
 
 ## Overview
